@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Potato tuber disease classification and lesion segmentation with a dual-head CNN-Transformer and segmentation-aware pooling"
+type: software
+license: MIT
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+repository-code: "https://github.com/[USER]/potato-tuber-sap"
+preferred-citation:
+  type: article
+  title: "[Paper title]"
+  journal: "Postharvest Biology and Technology"
+  year: 2026
+  authors:
+    - family-names: "[Family name]"
+      given-names: "[Given name]"
+  doi: "[DOI after acceptance]"
