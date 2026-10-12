@@ -1,0 +1,12 @@
+# tested with Python 3.10+, CUDA GPU (V100 32 GB); CPU works for the smoke test only
+torch>=2.1
+torchvision>=0.16
+albumentations>=1.4
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+scikit-image>=0.21   # LIME cell (SLIC superpixels)
+matplotlib>=3.7
+thop>=0.1.1          # complexity cell (MAC counts)
